@@ -1,0 +1,2 @@
+for the basic ML I have start to learn about the mathematic stuff (Mean, median, mode)
+Supervised learning basics of sql, excel, python, numpy, pandas,etcs 
